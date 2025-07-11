@@ -14,6 +14,7 @@ A modern, interactive Tic Tac Toe game built with **React** and **Tailwind CSS**
 
 ## 📸 Screenshots
 
-(/image.png)
+![Screenshot](./image.png)
+
 
 ---
